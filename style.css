@@ -82,7 +82,7 @@ header{
 header .user img{
     height: 13rem;
     width: 13rem;
-    border-radius: 50%;
+    border-radius: 10%;
     object-fit: cover;
     border: .5rem solid;
 }
