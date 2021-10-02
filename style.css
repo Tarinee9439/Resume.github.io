@@ -71,7 +71,7 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background:#060606;
+    background:#1a1a1a;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -89,12 +89,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: #006666;
+    color: #fff;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: #006666;
+    color: #fff;
 }
 
 header .nv{
@@ -109,7 +109,7 @@ header .nv ul li a{
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background: #A9A9A9;
+    background: #333;
     color: #000000;
     font-size: 2rem;
     border-radius: 5rem;
